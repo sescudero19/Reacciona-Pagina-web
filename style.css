@@ -257,3 +257,16 @@ input {
   z-index: 5; 
 }
 
+.logo{
+  width: 15rem;
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  margin: 0;
+}
+
+
+
