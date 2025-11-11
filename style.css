@@ -180,6 +180,7 @@ input {
 
 /* ------- RESPONSIVE ------- */
 @media (max-width: 765px) {
+
   .contenedor {
     display: flex;
     flex-direction: column;
@@ -268,6 +269,12 @@ input {
 .logo-coparmex{
   width: 22rem;
   margin-top:0;
+}
+
+@media (max-width: 765px) {
+  .logo{
+    width: 17rem;
+  }
 }
 
 header{
